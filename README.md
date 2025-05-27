@@ -20,5 +20,10 @@ A simple, responsive To-Do List web app built with HTML, CSS, and Vanilla JavaSc
 - CSS3 (Flexbox)
 - JavaScript (ES6)
 
-## 📁 Project Structure
+## 🌐 Live Demo
 
+Check out the live version here:  
+👉 **[Live Website](https://day-2-to-do-list-app-using-html-css-java-script.vercel.app/)**
+
+
+## 📁 Project Structure
